@@ -94,6 +94,12 @@ O código foi escrito em **inglês**, seguindo o padrão utilizado no mercado de
 
 ---
 
+O projeto possui uma interface simples
+em terminal (menu.py), separada da lógica de negócio, 
+seguindo boas práticas de organização e responsabilidade única (SRP).
+
+---
+
 ## 📌 Status do Projeto
 
 🟢 Em desenvolvimento — versão inicial focada em POO concluída.
